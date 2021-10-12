@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.e697bfc7.chunk.js",
-    "main.js.map": "/static/js/main.e697bfc7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f2d17126.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f2d17126.js.map",
-    "static/css/2.58a45539.chunk.css": "/static/css/2.58a45539.chunk.css",
-    "static/js/2.2786c7bd.chunk.js": "/static/js/2.2786c7bd.chunk.js",
-    "static/js/2.2786c7bd.chunk.js.map": "/static/js/2.2786c7bd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.58a45539.chunk.css.map": "/static/css/2.58a45539.chunk.css.map",
-    "static/js/2.2786c7bd.chunk.js.LICENSE.txt": "/static/js/2.2786c7bd.chunk.js.LICENSE.txt"
+    "main.js": "/duodigito-live/static/js/main.e697bfc7.chunk.js",
+    "main.js.map": "/duodigito-live/static/js/main.e697bfc7.chunk.js.map",
+    "runtime-main.js": "/duodigito-live/static/js/runtime-main.745cd32d.js",
+    "runtime-main.js.map": "/duodigito-live/static/js/runtime-main.745cd32d.js.map",
+    "static/css/2.58a45539.chunk.css": "/duodigito-live/static/css/2.58a45539.chunk.css",
+    "static/js/2.2786c7bd.chunk.js": "/duodigito-live/static/js/2.2786c7bd.chunk.js",
+    "static/js/2.2786c7bd.chunk.js.map": "/duodigito-live/static/js/2.2786c7bd.chunk.js.map",
+    "index.html": "/duodigito-live/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/duodigito-live/static/css/2.58a45539.chunk.css.map",
+    "static/js/2.2786c7bd.chunk.js.LICENSE.txt": "/duodigito-live/static/js/2.2786c7bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2d17126.js",
+    "static/js/runtime-main.745cd32d.js",
     "static/css/2.58a45539.chunk.css",
     "static/js/2.2786c7bd.chunk.js",
     "static/js/main.e697bfc7.chunk.js"
